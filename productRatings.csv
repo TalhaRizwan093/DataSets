@@ -1,272 +1,272 @@
-﻿user_id,product_id,rating,product_name
-1,101,4.5,iPhone
-1,102,3,AC
-1,103,5,Treadmill
-2,104,4,PlayStation 5
-2,105,4.5,PlayStation 5 Controller
-2,106,3.5,iPad
-3,107,4,Keyboards
-3,108,4.5,Mouse
-3,109,3,Gaming Chair
-4,110,5,Gaming Monitors
-5,111,3.5,iPhone
-5,112,4,AC
-5,113,3,Treadmill
-6,114,4.5,PlayStation 5
-6,115,4,PlayStation 5 Controller
-6,116,3.5,iPad
-7,117,4,Keyboards
-7,118,4.5,Mouse
-7,119,3,Gaming Chair
-8,120,5,Gaming Monitors
-9,121,4.5,iPhone
-9,122,3.5,AC
-9,123,4,Treadmill
-10,124,5,PlayStation 5
-10,125,4.5,PlayStation 5 Controller
-10,126,3,iPad
-11,127,4,Keyboards
-11,128,4.5,Mouse
-11,129,3,Gaming Chair
-12,130,5,Gaming Monitors
-13,131,3.5,iPhone
-13,132,4,AC
-13,133,3,Treadmill
-14,134,4.5,PlayStation 5
-14,135,4,PlayStation 5 Controller
-14,136,3.5,iPad
-15,137,4,Keyboards
-15,138,4.5,Mouse
-15,139,3,Gaming Chair
-16,140,5,Gaming Monitors
-17,141,4.5,iPhone
-17,142,3.5,AC
-17,143,4,Treadmill
-18,144,5,PlayStation 5
-18,145,4,PlayStation 5 Controller
-18,146,3,iPad
-19,147,4.5,Keyboards
-19,148,3,Mouse
-19,149,4,Gaming Chair
-20,150,5,Gaming Monitors
-21,151,4.5,iPhone
-21,152,3.5,AC
-21,153,4,Treadmill
-22,154,5,PlayStation 5
-22,155,4,PlayStation 5 Controller
-22,156,3,iPad
-23,157,4.5,Keyboards
-23,158,4,Mouse
-23,159,3,Gaming Chair
-24,160,5,Gaming Monitors
-25,161,4.5,iPhone
-25,162,3.5,AC
-25,163,4,Treadmill
-26,164,5,PlayStation 5
-26,165,4,PlayStation 5 Controller
-26,166,3,iPad
-27,167,4.5,Keyboards
-27,168,4,Mouse
-27,169,3,Gaming Chair
-28,170,5,Gaming Monitors
-29,171,4.5,iPhone
-29,172,3.5,AC
-29,173,4,Treadmill
-30,174,5,PlayStation 5
-30,175,4,PlayStation 5 Controller
-30,176,3,iPad
-31,177,4.5,Keyboards
-31,178,4,Mouse
-31,179,3,Gaming Chair
-32,180,5,Gaming Monitors
-33,181,4.5,iPhone
-33,182,3.5,AC
-33,183,4,Treadmill
-34,184,5,PlayStation 5
-34,185,4,PlayStation 5 Controller
-34,186,3,iPad
-35,187,4.5,Keyboards
-35,188,4,Mouse
-35,189,3,Gaming Chair
-36,190,5,Gaming Monitors
-37,191,4.5,iPhone
-37,192,3.5,AC
-37,193,4,Treadmill
-38,194,5,PlayStation 5
-38,195,4,PlayStation 5 Controller
-38,196,3,iPad
-39,197,4.5,Keyboards
-39,198,4,Mouse
-39,199,3,Gaming Chair
-40,200,5,Gaming Monitors
-41,201,4.5,iPhone
-41,202,3.5,AC
-41,203,4,Treadmill
-42,204,5,PlayStation 5
-42,205,4,PlayStation 5 Controller
-42,206,3,iPad
-43,207,4.5,Keyboards
-43,208,4,Mouse
-43,209,3,Gaming Chair
-44,210,5,Gaming Monitors
-45,211,4.5,iPhone
-45,212,3.5,AC
-45,213,4,Treadmill
-46,214,5,PlayStation 5
-46,215,4,PlayStation 5 Controller
-46,216,3,iPad
-47,217,4.5,Keyboards
-47,218,4,Mouse
-47,219,3,Gaming Chair
-48,220,5,Gaming Monitors
-49,221,4.5,iPhone
-49,222,3.5,AC
-49,223,4,Treadmill
-50,224,5,PlayStation 5
-50,225,4,PlayStation 5 Controller
-50,226,3,iPad
-51,227,4.5,Keyboards
-51,228,4,Mouse
-51,229,3,Gaming Chair
-52,230,5,Gaming Monitors
-53,231,4.5,iPhone
-53,232,3.5,AC
-53,233,4,Treadmill
-54,234,5,PlayStation 5
-54,235,4,PlayStation 5 Controller
-54,236,3,iPad
-55,237,4.5,Keyboards
-55,238,4,Mouse
-55,239,3,Gaming Chair
-56,240,5,Gaming Monitors
-57,241,4.5,iPhone
-57,242,3.5,AC
-57,243,4,Treadmill
-58,244,5,PlayStation 5
-58,245,4,PlayStation 5 Controller
-58,246,3,iPad
-59,247,4.5,Keyboards
-59,248,4,Mouse
-59,249,3,Gaming Chair
-60,250,5,Gaming Monitors
-61,251,4.5,iPhone
-61,252,3.5,AC
-61,253,4,Treadmill
-62,254,5,PlayStation 5
-62,255,4,PlayStation 5 Controller
-62,256,3,iPad
-63,257,4.5,Keyboards
-63,258,4,Mouse
-63,259,3,Gaming Chair
-64,260,5,Gaming Monitors
-65,261,4.5,iPhone
-65,262,3.5,AC
-65,263,4,Treadmill
-66,264,5,PlayStation 5
-66,265,4,PlayStation 5 Controller
-66,266,3,iPad
-67,267,4.5,Keyboards
-67,268,4,Mouse
-67,269,3,Gaming Chair
-68,270,5,Gaming Monitors
-69,271,4.5,iPhone
-69,272,3.5,AC
-69,273,4,Treadmill
-70,274,5,PlayStation 5
-70,275,4,PlayStation 5 Controller
-70,276,3,iPad
-71,277,4.5,Keyboards
-71,278,4,Mouse
-71,279,3,Gaming Chair
-72,280,5,Gaming Monitors
-73,281,4.5,iPhone
-73,282,3.5,AC
-73,283,4,Treadmill
-74,284,5,PlayStation 5
-74,285,4,PlayStation 5 Controller
-74,286,3,iPad
-75,287,4.5,Keyboards
-75,288,4,Mouse
-75,289,3,Gaming Chair
-76,290,5,Gaming Monitors
-77,291,4.5,iPhone
-77,292,3.5,AC
-77,293,4,Treadmill
-78,294,5,PlayStation 5
-78,295,4,PlayStation 5 Controller
-78,296,3,iPad
-79,297,4.5,Keyboards
-79,298,4,Mouse
-79,299,3,Gaming Chair
-80,300,5,Gaming Monitors
-81,301,4.5,iPhone
-81,302,3.5,AC
-81,303,4,Treadmill
-82,304,5,PlayStation 5
-82,305,4,PlayStation 5 Controller
-82,306,3,iPad
-83,307,4.5,Keyboards
-83,308,4,Mouse
-83,309,3,Gaming Chair
-84,310,5,Gaming Monitors
-85,311,4.5,iPhone
-85,312,3.5,AC
-85,313,4,Treadmill
-86,314,5,PlayStation 5
-86,315,4,PlayStation 5 Controller
-86,316,3,iPad
-87,317,4.5,Keyboards
-87,318,4,Mouse
-87,319,3,Gaming Chair
-88,320,5,Gaming Monitors
-89,321,4.5,iPhone
-89,322,3.5,AC
-89,323,4,Treadmill
-90,324,5,PlayStation 5
-90,325,4,PlayStation 5 Controller
-90,326,3,iPad
-91,327,4.5,Keyboards
-91,328,4,Mouse
-91,329,3,Gaming Chair
-92,330,5,Gaming Monitors
-93,331,4.5,iPhone
-93,332,3.5,AC
-93,333,4,Treadmill
-94,334,5,PlayStation 5
-94,335,4,PlayStation 5 Controller
-94,336,3,iPad
-95,337,4.5,Keyboards
-95,338,4,Mouse
-95,339,3,Gaming Chair
-96,340,5,Gaming Monitors
-97,341,4.5,iPhone
-97,342,3.5,AC
-97,343,4,Treadmill
-98,344,5,PlayStation 5
-98,345,4,PlayStation 5 Controller
-98,346,3,iPad
-99,347,4.5,Keyboards
-99,348,4,Mouse
-99,349,3,Gaming Chair
-100,350,5,Gaming Monitors
-101,351,4.5,iPhone
-101,352,3.5,AC
-101,353,4,Treadmill
-102,354,5,PlayStation 5
-102,355,4,PlayStation 5 Controller
-102,356,3,iPad
-103,357,4.5,Keyboards
-103,358,4,Mouse
-103,359,3,Gaming Chair
-104,360,5,Gaming Monitors
-105,361,4.5,iPhone
-105,362,3.5,AC
-105,363,4,Treadmill
-106,364,5,PlayStation 5
-106,365,4,PlayStation 5 Controller
-106,366,3,iPad
-107,367,4.5,Keyboards
-107,368,4,Mouse
-107,369,3,Gaming Chair
-108,370,5,Gaming Monitors
-109,371,4.5,iPhone
+﻿user_id,product_id,rating,product_name,,1,
+1,101,4,iPhone,,,
+1,102,3,AC,,,
+1,103,5,Treadmill,,,
+2,104,4,PlayStation 5,,,
+2,105,5,PlayStation 5 Controller,,,
+2,106,4,iPad,,,
+3,107,4,Keyboards,,,
+3,108,5,Mouse,,,
+3,109,3,Gaming Chair,,,
+4,110,5,Gaming Monitors,,,
+5,111,4,iPhone,,,
+5,112,4,AC,,,
+5,113,3,Treadmill,,,
+6,114,5,PlayStation 5,,,
+6,115,4,PlayStation 5 Controller,,,
+6,116,4,iPad,,,
+7,117,4,Keyboards,,,
+7,118,5,Mouse,,,
+7,119,3,Gaming Chair,,,
+8,120,5,Gaming Monitors,,,
+9,121,5,iPhone,,,
+9,122,4,AC,,,
+9,123,4,Treadmill,,,
+10,124,5,PlayStation 5,,,
+10,125,5,PlayStation 5 Controller,,,
+10,126,3,iPad,,,
+11,127,4,Keyboards,,,
+11,128,5,Mouse,,,
+11,129,3,Gaming Chair,,,
+12,130,5,Gaming Monitors,,,
+13,131,4,iPhone,,,
+13,132,4,AC,,,
+13,133,3,Treadmill,,,
+14,134,5,PlayStation 5,,,
+14,135,4,PlayStation 5 Controller,,,
+14,136,4,iPad,,,
+15,137,4,Keyboards,,,
+15,138,5,Mouse,,,
+15,139,3,Gaming Chair,,,
+16,140,5,Gaming Monitors,,,
+17,141,5,iPhone,,,
+17,142,4,AC,,,
+17,143,4,Treadmill,,,
+18,144,5,PlayStation 5,,,
+18,145,4,PlayStation 5 Controller,,,
+18,146,3,iPad,,,
+19,147,5,Keyboards,,,
+19,148,3,Mouse,,,
+19,149,4,Gaming Chair,,,
+20,150,5,Gaming Monitors,,,
+21,151,5,iPhone,,,
+21,152,4,AC,,,
+21,153,4,Treadmill,,,
+22,154,5,PlayStation 5,,,
+22,155,4,PlayStation 5 Controller,,,
+22,156,3,iPad,,,
+23,157,5,Keyboards,,,
+23,158,4,Mouse,,,
+23,159,3,Gaming Chair,,,
+24,160,5,Gaming Monitors,,,
+25,161,5,iPhone,,,
+25,162,4,AC,,,
+25,163,4,Treadmill,,,
+26,164,5,PlayStation 5,,,
+26,165,4,PlayStation 5 Controller,,,
+26,166,3,iPad,,,
+27,167,5,Keyboards,,,
+27,168,4,Mouse,,,
+27,169,3,Gaming Chair,,,
+28,170,5,Gaming Monitors,,,
+29,171,5,iPhone,,,
+29,172,4,AC,,,
+29,173,4,Treadmill,,,
+30,174,5,PlayStation 5,,,
+30,175,4,PlayStation 5 Controller,,,
+30,176,3,iPad,,,
+31,177,5,Keyboards,,,
+31,178,4,Mouse,,,
+31,179,3,Gaming Chair,,,
+32,180,5,Gaming Monitors,,,
+33,181,5,iPhone,,,
+33,182,4,AC,,,
+33,183,4,Treadmill,,,
+34,184,5,PlayStation 5,,,
+34,185,4,PlayStation 5 Controller,,,
+34,186,3,iPad,,,
+35,187,5,Keyboards,,,
+35,188,4,Mouse,,,
+35,189,3,Gaming Chair,,,
+36,190,5,Gaming Monitors,,,
+37,191,5,iPhone,,,
+37,192,4,AC,,,
+37,193,4,Treadmill,,,
+38,194,5,PlayStation 5,,,
+38,195,4,PlayStation 5 Controller,,,
+38,196,3,iPad,,,
+39,197,5,Keyboards,,,
+39,198,4,Mouse,,,
+39,199,3,Gaming Chair,,,
+40,200,5,Gaming Monitors,,,
+41,201,5,iPhone,,,
+41,202,4,AC,,,
+41,203,4,Treadmill,,,
+42,204,5,PlayStation 5,,,
+42,205,4,PlayStation 5 Controller,,,
+42,206,3,iPad,,,
+43,207,5,Keyboards,,,
+43,208,4,Mouse,,,
+43,209,3,Gaming Chair,,,
+44,210,5,Gaming Monitors,,,
+45,211,5,iPhone,,,
+45,212,4,AC,,,
+45,213,4,Treadmill,,,
+46,214,5,PlayStation 5,,,
+46,215,4,PlayStation 5 Controller,,,
+46,216,3,iPad,,,
+47,217,5,Keyboards,,,
+47,218,4,Mouse,,,
+47,219,3,Gaming Chair,,,
+48,220,5,Gaming Monitors,,,
+49,221,5,iPhone,,,
+49,222,4,AC,,,
+49,223,4,Treadmill,,,
+50,224,5,PlayStation 5,,,
+50,225,4,PlayStation 5 Controller,,,
+50,226,3,iPad,,,
+51,227,5,Keyboards,,,
+51,228,4,Mouse,,,
+51,229,3,Gaming Chair,,,
+52,230,5,Gaming Monitors,,,
+53,231,5,iPhone,,,
+53,232,4,AC,,,
+53,233,4,Treadmill,,,
+54,234,5,PlayStation 5,,,
+54,235,4,PlayStation 5 Controller,,,
+54,236,3,iPad,,,
+55,237,5,Keyboards,,,
+55,238,4,Mouse,,,
+55,239,3,Gaming Chair,,,
+56,240,5,Gaming Monitors,,,
+57,241,5,iPhone,,,
+57,242,4,AC,,,
+57,243,4,Treadmill,,,
+58,244,5,PlayStation 5,,,
+58,245,4,PlayStation 5 Controller,,,
+58,246,3,iPad,,,
+59,247,5,Keyboards,,,
+59,248,4,Mouse,,,
+59,249,3,Gaming Chair,,,
+60,250,5,Gaming Monitors,,,
+61,251,5,iPhone,,,
+61,252,4,AC,,,
+61,253,4,Treadmill,,,
+62,254,5,PlayStation 5,,,
+62,255,4,PlayStation 5 Controller,,,
+62,256,3,iPad,,,
+63,257,5,Keyboards,,,
+63,258,4,Mouse,,,
+63,259,3,Gaming Chair,,,
+64,260,5,Gaming Monitors,,,
+65,261,5,iPhone,,,
+65,262,4,AC,,,
+65,263,4,Treadmill,,,
+66,264,5,PlayStation 5,,,
+66,265,4,PlayStation 5 Controller,,,
+66,266,3,iPad,,,
+67,267,5,Keyboards,,,
+67,268,4,Mouse,,,
+67,269,3,Gaming Chair,,,
+68,270,5,Gaming Monitors,,,
+69,271,5,iPhone,,,
+69,272,4,AC,,,
+69,273,4,Treadmill,,,
+70,274,5,PlayStation 5,,,
+70,275,4,PlayStation 5 Controller,,,
+70,276,3,iPad,,,
+71,277,5,Keyboards,,,
+71,278,4,Mouse,,,
+71,279,3,Gaming Chair,,,
+72,280,5,Gaming Monitors,,,
+73,281,5,iPhone,,,
+73,282,4,AC,,,
+73,283,4,Treadmill,,,
+74,284,5,PlayStation 5,,,
+74,285,4,PlayStation 5 Controller,,,
+74,286,3,iPad,,,
+75,287,5,Keyboards,,,
+75,288,4,Mouse,,,
+75,289,3,Gaming Chair,,,
+76,290,5,Gaming Monitors,,,
+77,291,5,iPhone,,,
+77,292,4,AC,,,
+77,293,4,Treadmill,,,
+78,294,5,PlayStation 5,,,
+78,295,4,PlayStation 5 Controller,,,
+78,296,3,iPad,,,
+79,297,5,Keyboards,,,
+79,298,4,Mouse,,,
+79,299,3,Gaming Chair,,,
+80,300,5,Gaming Monitors,,,
+81,301,5,iPhone,,,
+81,302,4,AC,,,
+81,303,4,Treadmill,,,
+82,304,5,PlayStation 5,,,
+82,305,4,PlayStation 5 Controller,,,
+82,306,3,iPad,,,
+83,307,5,Keyboards,,,
+83,308,4,Mouse,,,
+83,309,3,Gaming Chair,,,
+84,310,5,Gaming Monitors,,,
+85,311,5,iPhone,,,
+85,312,4,AC,,,
+85,313,4,Treadmill,,,
+86,314,5,PlayStation 5,,,
+86,315,4,PlayStation 5 Controller,,,
+86,316,3,iPad,,,
+87,317,5,Keyboards,,,
+87,318,4,Mouse,,,
+87,319,3,Gaming Chair,,,
+88,320,5,Gaming Monitors,,,
+89,321,5,iPhone,,,
+89,322,4,AC,,,
+89,323,4,Treadmill,,,
+90,324,5,PlayStation 5,,,
+90,325,4,PlayStation 5 Controller,,,
+90,326,3,iPad,,,
+91,327,5,Keyboards,,,
+91,328,4,Mouse,,,
+91,329,3,Gaming Chair,,,
+92,330,5,Gaming Monitors,,,
+93,331,5,iPhone,,,
+93,332,4,AC,,,
+93,333,4,Treadmill,,,
+94,334,5,PlayStation 5,,,
+94,335,4,PlayStation 5 Controller,,,
+94,336,3,iPad,,,
+95,337,5,Keyboards,,,
+95,338,4,Mouse,,,
+95,339,3,Gaming Chair,,,
+96,340,5,Gaming Monitors,,,
+97,341,5,iPhone,,,
+97,342,4,AC,,,
+97,343,4,Treadmill,,,
+98,344,5,PlayStation 5,,,
+98,345,4,PlayStation 5 Controller,,,
+98,346,3,iPad,,,
+99,347,5,Keyboards,,,
+99,348,4,Mouse,,,
+99,349,3,Gaming Chair,,,
+100,350,5,Gaming Monitors,,,
+101,351,5,iPhone,,,
+101,352,4,AC,,,
+101,353,4,Treadmill,,,
+102,354,5,PlayStation 5,,,
+102,355,4,PlayStation 5 Controller,,,
+102,356,3,iPad,,,
+103,357,5,Keyboards,,,
+103,358,4,Mouse,,,
+103,359,3,Gaming Chair,,,
+104,360,5,Gaming Monitors,,,
+105,361,5,iPhone,,,
+105,362,4,AC,,,
+105,363,4,Treadmill,,,
+106,364,5,PlayStation 5,,,
+106,365,4,PlayStation 5 Controller,,,
+106,366,3,iPad,,,
+107,367,5,Keyboards,,,
+107,368,4,Mouse,,,
+107,369,3,Gaming Chair,,,
+108,370,5,Gaming Monitors,,,
+109,371,5,iPhone,,,
